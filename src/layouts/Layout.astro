@@ -1,23 +1,29 @@
+---
+import "../styles/global.css";
+---
+
 <!doctype html>
-<html lang="en">
+<html lang="es">
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Recursive:wght@300..1000&display=swap"
+			rel="stylesheet"
+		/>
+		<title>¿Serías un Buen Compañero de Tesis? - Internado 2026</title>
 	</head>
-	<body>
-		<slot />
+	<body class="bg-stone-100 text-stone-950 text-lg font-[Recursive]">
+		<div class="grid min-h-screen grid-rows-[1fr_auto] items-center justify-center">
+			<slot />
+			<footer class='text-center text-sm text-stone-600 py-4'>
+				&copy; Hecha con cariño por <a class='text-blue-500' target='_blank' href="https://www.instagram.com/wuggycakes"
+					>Omar A. Ureña</a
+				>
+			</footer>
+		</div>
 	</body>
 </html>
-
-<style>
-	html,
-	body {
-		margin: 0;
-		width: 100%;
-		height: 100%;
-	}
-</style>

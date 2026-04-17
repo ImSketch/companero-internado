@@ -1,0 +1,9 @@
+---
+import Layout from "../layouts/Layout.astro";
+import QuizEntry from "../components/QuizEntry.jsx";
+import quizList from "../assets/quiz.json";
+---
+
+<Layout>
+  <QuizEntry client:load quizList={quizList} />
+</Layout>

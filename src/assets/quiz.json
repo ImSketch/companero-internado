@@ -1,0 +1,72 @@
+[
+    {
+        "question": "Si un compañero no ha dormido bien, y tú estás más descansado/a. ¿Qué harías?",
+        "bad": "Se la bebió, no toy en gente",
+        "decent": "Le prendo las luces de la habitación, aquí no somo' cucuyo'",
+        "good": "Veo TikToks o escucho música sin audífonos, pero con volumen bajito",
+        "excellent": "Me pongo audífonos y bajo el brillo, lo dejo descansar"
+    },
+    {
+        "question": "Entrega de guardia. Todo el mundo está en para', asustao' y pico. ¿Cuál eres tú?",
+        "bad": "El que está consciente de que nos van a trancar a todos",
+        "decent": "El que estudió 5 minutos antes",
+        "good": "El que ayuda a los demás",
+        "excellent": "El que trata de responder para no joder al bloque entero"
+    },
+    {
+        "question": "Una compañera tomó mal los vitales (le puso 120/80 mmHg a una crisis hipertensiva, ya tú sabe'). ¿Qué procede?",
+        "bad": "Macó ajo, yo no tengo que ver con eso",
+        "decent": "Procurar que no se enteren los residentes jodones",
+        "good": "Tomar los vitales yo mismo/a",
+        "excellent": "Explicarle cómo tomar la presión arterial para evitar que se repita, nadie nació sabiendo"
+    },
+    {
+        "question": "Tu compañero varón está estropeado en la habitación de estudiantes. Una residente anda buscando un doctor <s>para usarlo de pendejo</s> para que ayude en el traslado de pacientes, desde el primer nivel hasta el cuarto. ¿Qué harías?",
+        "bad": "Llamarlo a él y a todo el que esté en la habitación para que lo despierten y baje a ayudar",
+        "decent": "Decirle a la residente que el compañero está dormiendo",
+        "good": "Decirle a la residente que el compañero está con un dolor de cabeza insoportable",
+        "excellent": "Decirle a la residente que tú te encargarás"
+    },
+    {
+        "question": "Llega a la emergencia una señora con signo de Chvostek positivo (una vaina que un interno ve solamente en libros). ¿Qué harías?",
+        "bad": "Mortificar a los que no tenían servicio ese día. Total, yo vi lo que ellos sueñan",
+        "decent": "Mirar, aprender y no decirle nada a nadie",
+        "good": "Reírme de los compañeros que no lo vieron",
+        "excellent": "Llamar a los compañeros para que vengan a ver"
+    },
+    {
+        "question": "Tocó curar un pie diabético y el compañero comenzó a hacer gestos de asco y náuseas",
+        "bad": "Pa que diablo estudió medicina entonces...",
+        "decent": "Me le río en la cara, por débil",
+        "good": "Entiendo totalmente su gesto, no es agradable",
+        "excellent": "Si se puede, lo invito a salir un rato para que respire aire fresco"
+    },
+    {
+        "question": "Te cuentan un chisme durísimo de alguien de otro bloque. ¿Qué procede doctor/a?",
+        "bad": "Tiro el chisme más palante', no soy baúl de nadie",
+        "decent": "Busco el café y me siento a oír, el chisme a mitad no es chisme",
+        "good": "Trato de no opinar, no es algo que me incumbe",
+        "excellent": "Ignoro los comentarios y sigo mi vida"
+    },
+    {
+        "question": "Antes del internado, ¿Qué tipo de estudiante eras?",
+        "bad": "Nunca abrí un cuaderno en clase",
+        "decent": "Pasé por la morgue y no me acuerdo ni dónde está la clavícula",
+        "good": "Era el/la mejor de la sección siempre; solo yo, nadie más",
+        "excellent": "Siempre ayudé a los demás compañeros"
+    },
+    {
+        "question": "Desde ahora ya sé que cuando sea egresado...",
+        "bad": "No voy a saber de nadie del internado",
+        "decent": "Pondré mi clínica, me lo puedo permitir",
+        "good": "Tengo algunos compañeros a quienes puedo referir pacientes con confianza",
+        "excellent": "No maltrataré a mis internos cuando sea residente"
+    },
+    {
+        "question": "Para mi tesis:",
+        "bad": "No sé cómo lidiaré con gente, soy muy cerrado/a",
+        "decent": "Buscaré el tema más <s>satánico</s> complejo, aunque me lo rechacen",
+        "good": "Buscaré ser feliz, tener pocas complicaciones y colaborar con mis compañeros",
+        "excellent": "Intentaré llegar a un punto medio con mis compañeros para un buen tema"
+    }
+]
